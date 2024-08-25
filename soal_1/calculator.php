@@ -47,7 +47,7 @@
             echo "<br>Hasil dari ".$a." : ".$b." = ".$hasil;
         }
         if($hasil % 2 != 0){
-            echo "<br>".$hasil. "merupakan bilangan ganjil ";
+            echo "<br>".$hasil. " merupakan bilangan ganjil ";
         }else{
             echo "<br>".$hasil. "  merupakan bilangan genap ";
         }
